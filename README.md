@@ -1,1 +1,1 @@
-This is a fork that fixes an incompatibility with newer react-native versions in amazon-cognito-identity-js. There is a branch called amazon-cognito-identity-js that is a subtree of just this library from this monorepo, to be able to use it a yarn dependency in soundry-app/package.json.
+This is a fork that fixes an incompatibility with newer react-native versions in amazon-cognito-identity-js. See soundry-app/lib/README.md for more information
